@@ -1,0 +1,27 @@
+{
+  "name": "hw4-nodejs-rohv25",
+  "version": "1.0.0",
+  "description": "Rohit Varghese\r Z23605443",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cop4808-spring-2023-fullstack-web/hw4-nodejs-rohv25.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cop4808-spring-2023-fullstack-web/hw4-nodejs-rohv25/issues"
+  },
+  "homepage": "https://github.com/cop4808-spring-2023-fullstack-web/hw4-nodejs-rohv25#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "pig-latin": "^2.0.2",
+    "poker-evaluator": "^2.0.5",
+    "readline-sync": "^1.4.10",
+    "sentiment": "^5.0.2",
+    "statistics": "^3.3.0"
+  }
+}
